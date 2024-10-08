@@ -52,6 +52,10 @@ body {
     grid-row: 1 / 2;
     background-color: var(--violet-color);
     color: var(--grayish-blue-color);
+    background-image: url('./images/bg-pattern-quotation.svg');
+    background-size: auto; 
+    background-repeat: no-repeat; 
+    background-position: calc(100% - 5rem) top;
 }
 
 .review__item--2 {
