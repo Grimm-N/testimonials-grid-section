@@ -1,6 +1,5 @@
 # Frontend Mentor - Testimonials grid section solution
-
-This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+![Web design](./screenshots/web.png)
 
 ## Table of contents
 
@@ -25,8 +24,6 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size.
 
 ### Screenshot
-
-![Web design](./screenshots/web.png)
 ![Web design for 800px](./screenshots/web-800px.png)
 ![Mobile design](./screenshots/mob-320px.png)
 
